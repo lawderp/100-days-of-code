@@ -9,3 +9,6 @@ Continued work on Slate app. Made some progress on enabling commands that use mu
 
 ### R1D2
 [Slate App] - figured out how to enable double key press (space -> dash) for bulleted lists, but ran into issues in trying to modify content....so then I explored dark mode using Lyft ColorBox haha. May have to come back to Slate at a later date.
+
+### R1D3
+Started to do node.js TH but didn't work...so revisited NBA player app. Did some light structuring & styling, and started work on incorporating react-pose.

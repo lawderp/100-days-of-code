@@ -14,4 +14,7 @@ Continued work on Slate app. Made some progress on enabling commands that use mu
 Started to do node.js TH but didn't work...so revisited NBA player app. Did some light structuring & styling, and started work on incorporating react-pose.
 
 ### R1D4
-[NBA-players] - continued work on incorporating react-pose. Got animations to trigger onFocus of search, and re-arragned some other elements to make it work.
+[NBA-players] - continued work on incorporating react-pose. Got animations to trigger onFocus of search, and re-arranged some other elements to make it work.
+
+### R1D5
+Added a bit more polish to react-pose search transition (e.g. pushed down player stats). Tried to use PoseGroup briefly but couldn't figure it out. Then worked on getting react-router to work in curious-lawder, although struggled w some parts.

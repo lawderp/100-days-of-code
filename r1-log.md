@@ -22,5 +22,5 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 ### R1D6
 [NBA-players] - figured out onBlur (using refs), and also updated behavior to work for a 2nd (or more) search.
 
-### R1D7
+### R1D7 (1/7)
 [NBA-players] - got a static version of the giphy API working and displaying an image. Need to update the URL to include the searched for player (string).

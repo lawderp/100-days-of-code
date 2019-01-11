@@ -24,3 +24,9 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 
 ### R1D7 (1/7)
 [NBA-players] - got a static version of the giphy API working and displaying an image. Need to update the URL to include the searched for player (string).
+
+### R1D8 (1/8)
+[NBA-players] - got the giphy API to pull the searched for player, which involved moving the request to the parent PlayerSearch component, and use promises to delay the request. Could def be improved tho.
+
+### R1D9 (1/9)
+[NBA-players] - Got the API to pull a random gif of said player. Styled the header to have gif, and display text over gradient blended background. 

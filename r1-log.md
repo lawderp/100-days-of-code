@@ -30,3 +30,6 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 
 ### R1D9
 [NBA-players] - Got the API to pull a random gif of said player. Styled the header to have gif, and display text over gradient blended background. 
+
+### R1D10
+[NBA-players] - Started work to trigger input to transition out upon results: created new bottom button component that focuses input onClick. Now need to figure out how to animate input in & out...

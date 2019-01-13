@@ -36,3 +36,6 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 
 ### R1D11
 [NBA-players] - Figured out how to animate input to a 3rd state using react-pose. Started to investigate why onChange is being called onBlur for Downshift.
+
+### R1D12
+[NBA-players] - created a loading spinner while waiting for stats to return, which required refactoring loading state logic and creating a CSS keyframes animation.

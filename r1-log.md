@@ -33,3 +33,6 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 
 ### R1D10
 [NBA-players] - Started work to trigger input to transition out upon results: created new bottom button component that focuses input onClick. Now need to figure out how to animate input in & out...
+
+### R1D11
+[NBA-players] - Figured out how to animate input to a 3rd state using react-pose. Started to investigate why onChange is being called onBlur for Downshift.

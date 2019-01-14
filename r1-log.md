@@ -39,3 +39,6 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 
 ### R1D12
 [NBA-players] - created a loading spinner while waiting for stats to return, which required refactoring loading state logic and creating a CSS keyframes animation.
+
+### R1D13
+Looked into what I should work on next; ended up starting Express (Node) tutorial on TH.

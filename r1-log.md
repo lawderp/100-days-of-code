@@ -43,8 +43,14 @@ Added a bit more polish to react-pose search transition (e.g. pushed down player
 ### R1D13
 Looked into what I should work on next; ended up starting Express (Node) tutorial on TH.
 
-### R1D14
+### R1D14 (1/14)
 [Express TH] - Continued work on Express tutorial on TH - mainly just learned Pug.
 
 ### R1D15
 [Express TH] - Continued work on Pug, and started learning about get & post requests.
+
+### R1D16
+Nothing fuck...
+
+### R1D17
+[Android TH] - Starting tutorial for basic Android app. Downloaded AS and did some setup, then ...

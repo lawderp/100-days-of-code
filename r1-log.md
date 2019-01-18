@@ -4,53 +4,53 @@ The log of my #100DaysOfCode challenge. Started on January 1, 2019. 🍾
 
 ## Log
 
-### R1D1 (1/1/19)
+### Day 1 (1/1/19)
 Continued work on Slate app. Made some progress on enabling commands that use multiple key presses, which has been a bit tricky...
 
-### R1D2
+### Day 2
 [Slate App] - figured out how to enable double key press (space -> dash) for bulleted lists, but ran into issues in trying to modify content....so then I explored dark mode using Lyft ColorBox haha. May have to come back to Slate at a later date.
 
-### R1D3
+### Day 3
 Started to do node.js TH but didn't work...so revisited NBA player app. Did some light structuring & styling, and started work on incorporating react-pose.
 
-### R1D4
+### Day 4
 [NBA-players] - continued work on incorporating react-pose. Got animations to trigger onFocus of search, and re-arranged some other elements to make it work.
 
-### R1D5
+### Day 5
 Added a bit more polish to react-pose search transition (e.g. pushed down player stats). Tried to use PoseGroup briefly but couldn't figure it out. Then worked on getting react-router to work in curious-lawder, although struggled w some parts.
 
-### R1D6
+### Day 6
 [NBA-players] - figured out onBlur (using refs), and also updated behavior to work for a 2nd (or more) search.
 
-### R1D7 (1/7)
+### Day 7 (1/7)
 [NBA-players] - got a static version of the giphy API working and displaying an image. Need to update the URL to include the searched for player (string).
 
-### R1D8
+### Day 8
 [NBA-players] - got the giphy API to pull the searched for player, which involved moving the request to the parent PlayerSearch component, and use promises to delay the request. Could def be improved tho.
 
-### R1D9
+### Day 9
 [NBA-players] - Got the API to pull a random gif of said player. Styled the header to have gif, and display text over gradient blended background. 
 
-### R1D10
+### Day 10
 [NBA-players] - Started work to trigger input to transition out upon results: created new bottom button component that focuses input onClick. Now need to figure out how to animate input in & out...
 
-### R1D11
+### Day 11
 [NBA-players] - Figured out how to animate input to a 3rd state using react-pose. Started to investigate why onChange is being called onBlur for Downshift.
 
-### R1D12
+### Day 12
 [NBA-players] - created a loading spinner while waiting for stats to return, which required refactoring loading state logic and creating a CSS keyframes animation.
 
-### R1D13
+### Day 13
 Looked into what I should work on next; ended up starting Express (Node) tutorial on TH.
 
-### R1D14 (1/14)
+### Day 14 (1/14)
 [Express TH] - Continued work on Express tutorial on TH - mainly just learned Pug.
 
-### R1D15
+### Day 15
 [Express TH] - Continued work on Pug, and started learning about get & post requests.
 
-### R1D16
+## Day 16
 Nothing fuck...
 
-### R1D17
+### Day 17
 [Android TH] - Starting tutorial for basic Android app. Downloaded AS and did some setup, then ...

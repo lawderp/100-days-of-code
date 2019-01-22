@@ -68,3 +68,4 @@ Nothing ugh
 Nothing ugh
 
 ### Day 22
+[Android TH] - Set background to random color onClick. Also learned about refactoring to separate classes, and app icons for different screen resolutions.

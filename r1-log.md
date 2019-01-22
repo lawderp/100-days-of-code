@@ -54,3 +54,15 @@ Nothing fuck...
 
 ### Day 17
 [Android TH] - Starting tutorial for basic Android app. Downloaded AS and did some setup, then started tutorial, then AS crashed, so started to get back to where I was lol.
+
+### Day 18
+[Android TH] - Continued work in Android tutorial; worked on styling a fun fact and adding a button.
+
+### Day 19
+Nothing ugh
+
+### Day 20
+[Android TH] - Added functionality to the button to generate a random fun fact.
+
+### Day 21
+Nothing ugh

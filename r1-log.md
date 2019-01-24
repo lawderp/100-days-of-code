@@ -64,8 +64,11 @@ Nothing ugh
 ### Day 20
 [Android TH] - Added functionality to the button to generate a random fun fact.
 
-### Day 21
+### Day 21 (1/21)
 Nothing ugh
 
 ### Day 22
 [Android TH] - Set background to random color onClick. Also learned about refactoring to separate classes, and app icons for different screen resolutions.
+
+### Day 23
+Finished Android TH initial tutorial (learned about debugging and tools). Also explored custom button styling via drawables.

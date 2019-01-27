@@ -72,3 +72,13 @@ Nothing ugh
 
 ### Day 23
 Finished Android TH initial tutorial (learned about debugging and tools). Also explored custom button styling via drawables.
+
+### Day 24
+(less) Continued playing around w Android styles. Started to learn about view groups, but a bit tricky.
+
+### Day 25
+Nothing ugh
+
+### Day 26
+(less) started new Android TH tutorial around styles
+

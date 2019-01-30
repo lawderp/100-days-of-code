@@ -82,3 +82,15 @@ Nothing ugh
 ### Day 26
 (less) started new Android TH tutorial around styles
 
+### Day 27
+(less) figured out how to open someone else's Android project; e.g. installed relevant SDKs
+
+### Day 28
+(less) I did a little something; I think tried to follow Android project and failed...
+
+### Day 29
+Played w Shopify (Polaris) table for upfront rates. Also wrote Terms & PP in HTML/CSS.
+
+### Day 30
+
+

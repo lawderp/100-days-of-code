@@ -92,5 +92,8 @@ Nothing ugh
 Played w Shopify (Polaris) table for upfront rates. Also wrote Terms & PP in HTML/CSS.
 
 ### Day 30
+[Express TH] - continued tutorial. Learned about cookies: namely, how to set and read them. 
 
+### Day 31
+[Express TH] - learned how to redirect to different pages onSubmit, and started learning about middleware. 
 

@@ -89,7 +89,7 @@ Nothing ugh
 (less) I did a little something; I think tried to follow Android project and failed...
 
 ### Day 29
-Played w Shopify (Polaris) table for upfront rates. Also wrote Terms & PP in HTML/CSS.
+(Blend) Played w Shopify (Polaris) table for upfront rates. Also wrote Terms & PP in HTML/CSS.
 
 ### Day 30
 [Express TH] - continued tutorial. Learned about cookies: namely, how to set and read them. 

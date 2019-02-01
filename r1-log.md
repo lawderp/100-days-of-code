@@ -97,3 +97,5 @@ Nothing ugh
 ### Day 31
 [Express TH] - learned how to redirect to different pages onSubmit, and started learning about middleware. 
 
+### Day 32
+[Express TH] - continued learning about middleware: next() function and error handling. Also took a break to learn about closures in JS.

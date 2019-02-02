@@ -85,7 +85,7 @@ Nothing ugh
 ### Day 27
 (less) figured out how to open someone else's Android project; e.g. installed relevant SDKs
 
-### Day 28
+### Day 28 (1/28)
 (less) I did a little something; I think tried to follow Android project and failed...
 
 ### Day 29
@@ -99,3 +99,6 @@ Nothing ugh
 
 ### Day 32
 [Express TH] - continued learning about middleware: next() function and error handling. Also took a break to learn about closures in JS.
+
+### Day 33
+(less) [Express - TH] - pulled out routes into separate index.js file.

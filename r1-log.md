@@ -102,3 +102,9 @@ Nothing ugh
 
 ### Day 33
 (less) [Express - TH] - pulled out routes into separate index.js file.
+
+### Day 34
+Nothing ugh... (Pats won tho)
+
+### Day 35
+[Express TH] - debugged error in TH tutorial, due to using old code. Set up cards to be configurable and have their own URLs; also imported data from a separate file.

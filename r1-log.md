@@ -108,3 +108,9 @@ Nothing ugh... (Pats won tho)
 
 ### Day 35
 [Express TH] - debugged error in TH tutorial, due to using old code. Set up cards to be configurable and have their own URLs; also imported data from a separate file.
+
+### Day 36
+[Express TH] - added logic to make card URLs more robust: defaulting to question if no side is specified, picking random card if none is specified, etc.
+
+### Day 37
+[Express TH] - debugged error where card randomizer wasn't working. Added logic to proceed from home into the flashcard game, and learned how to load styles in Express (but skimmed).

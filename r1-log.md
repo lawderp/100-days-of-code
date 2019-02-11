@@ -121,3 +121,5 @@ Nothing ugh... (Pats won tho)
 ### Day 39
 [Downshift] - started advanced downshift work. Tested limits of JSON, and also had to clean up data.
 
+### Day 40
+[Downshift] - figured out duplicate issue: was using wrong field for the "key". Then tested limits of JSON (great for 2000 items, didn't test more) and styled the UI.

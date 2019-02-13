@@ -109,17 +109,29 @@ Nothing ugh... (Pats won tho)
 ### Day 35 (2/4)
 [Express TH] - debugged error in TH tutorial, due to using old code. Set up cards to be configurable and have their own URLs; also imported data from a separate file.
 
-### Day 36
+### Day 36 (2/5)
 [Express TH] - added logic to make card URLs more robust: defaulting to question if no side is specified, picking random card if none is specified, etc.
 
-### Day 37
+### Day 37 (2/6)
 [Express TH] - debugged error where card randomizer wasn't working. Added logic to proceed from home into the flashcard game, and learned how to load styles in Express (but skimmed). Finished tutorial.
 
-### Day 38
+### Day 38 (2/7)
 (less) Started looking into how I could create downshift for LO search. Want to create test version using medical data.
 
-### Day 39
+### Day 39 (2/8)
 [Downshift] - started advanced downshift work. Tested limits of JSON, and also had to clean up data.
 
-### Day 40
+### Day 40 (2/9)
 [Downshift] - figured out duplicate issue: was using wrong field for the "key". Then tested limits of JSON (great for 2000 items, didn't test more) and styled the UI.
+
+### Day 41 (2/10)
+[Downshift] - looked into different ways of doing fuzzy matching, but failed.
+
+### Day 42 (2/11)
+Nothing ugh
+
+### Day 43 (2/12)
+Nothing ugh
+
+### Day 44 (2/13
+...

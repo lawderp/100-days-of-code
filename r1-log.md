@@ -133,5 +133,11 @@ Nothing ugh
 ### Day 43 (2/12)
 Nothing ugh
 
-### Day 44 (2/13
-...
+### Day 44 (2/13)
+(less) A lil downshift fuzzy thing. Then fainted in the aft lol
+
+### Day 45 (2/14)
+Nothing ugh
+
+### Day 46 (2/15)
+(less) A lil downshift playing around...should move on

@@ -140,4 +140,7 @@ Nothing ugh
 Nothing ugh
 
 ### Day 46 (2/15)
-(less) A lil downshift playing around...should move on
+(less) A lil downshift playing around...should move on. Then played around w styling
+
+### Day 47 (2/16)
+...

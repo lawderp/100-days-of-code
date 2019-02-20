@@ -143,4 +143,17 @@ Nothing ugh
 (less) A lil downshift playing around...should move on. Then played around w styling
 
 ### Day 47 (2/16)
-...
+Nothing ugh
+
+### Day 48 (2/17)
+Nothing ugh
+
+### Day 49 (2/18)
+Nothing ugh
+
+### Day 50 (2/19)
+Researched different Firebase tutorials, then started Firebase auth tutorial w/ react. Set up project w various paths.
+
+### Day 51 (2/20)
+
+

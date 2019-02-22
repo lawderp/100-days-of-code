@@ -155,5 +155,11 @@ Nothing ugh
 Researched different Firebase tutorials, then started Firebase auth tutorial w/ react. Set up project w various paths.
 
 ### Day 51 (2/20)
+[Firebase] - continued tutorial at Beacon. I think I set up React-router, then created FB account.
 
+### Day 52 (2/21)
+Explored realtor onboarding animations in CSS/React. Also continued FB tutorial, setting up my FB files.
+
+### Day 53 (2/22)
+[Firebase] - enabled email account creation in FB, then created sign up form and event handlers.
 

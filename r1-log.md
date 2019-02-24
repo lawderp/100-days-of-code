@@ -163,3 +163,7 @@ Explored realtor onboarding animations in CSS/React. Also continued FB tutorial,
 ### Day 53 (2/22)
 [Firebase] - enabled email account creation in FB, then created sign up form and event handlers.
 
+### Day 54 (2/23)
+Got the point where you could sign up and should connect to FB, but didn't work. Then played around w realtor onboarding, and got pre-approval animations synced up.
+
+### Day 55 (2/24)

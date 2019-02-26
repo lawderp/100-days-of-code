@@ -168,3 +168,6 @@ Got the point where you could sign up and should connect to FB, but didn't work.
 
 ### Day 55 (2/24)
 [Firebase] - finalllly figured out the issue: one of my functions wasn't actually returning anything cause of ES6 syntax (need to explicitly return objects). Then implemented sign in link.
+
+### Day 56 (2/25)
+Firebase - added Sign Out functionality, and incorporated auth vs. non-auth logic (e.g. only show Sign Out if auth). Also played around w RR in the realtor onboarding.

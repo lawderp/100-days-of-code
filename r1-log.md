@@ -171,3 +171,16 @@ Got the point where you could sign up and should connect to FB, but didn't work.
 
 ### Day 56 (2/25)
 Firebase - added Sign Out functionality, and incorporated auth vs. non-auth logic (e.g. only show Sign Out if auth). Also played around w RR in the realtor onboarding.
+
+### Day 57 (2/26)
+[Firebase] - Moved authentication to higher order component, I guess. 
+
+### Day 58 (2/27)
+[Firebase] - Implemented password reset and password change functionality, and added it to the account page.
+
+### Day 59 (2/28)
+Firebase - started implementing logic to protect routes based on auth. Also started Framer realtor prototype.
+
+### Day 60 (3/1)
+
+

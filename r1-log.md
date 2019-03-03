@@ -182,5 +182,11 @@ Firebase - added Sign Out functionality, and incorporated auth vs. non-auth logi
 Firebase - started implementing logic to protect routes based on auth. Also started Framer realtor prototype.
 
 ### Day 60 (3/1)
+Firebase - Started implementing database in Firebase (I think). Also ran into issues w Framer prototype (doesn't scroll in mobile browser). 
 
+### Day 61 (3/2)
+[Firebase] - Continued implementing database in Firebase, w the goal of displaying list of users in admin page. Spent time trying to debug issue w admin page...
+
+### Day 62 (3/3)
+[Firebase] - debugged issue w admin page (wasn't importing withFirebase properly). Then ran into new issue of userList not displaying...
 

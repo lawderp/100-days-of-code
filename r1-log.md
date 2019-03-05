@@ -190,3 +190,5 @@ Firebase - Started implementing database in Firebase (I think). Also ran into is
 ### Day 62 (3/3)
 [Firebase] - debugged issue w admin page (wasn't importing withFirebase properly). Then ran into new issue of userList not displaying...
 
+### Day 63 (3/4)
+(less) started the Gatsby tutorial, then got prompty redirected to the GraphQL tutorial. So started that.

@@ -192,3 +192,18 @@ Firebase - Started implementing database in Firebase (I think). Also ran into is
 
 ### Day 63 (3/4)
 (less) started the Gatsby tutorial, then got prompty redirected to the GraphQL tutorial. So started that.
+
+### Day 64 (3/5)
+(less) React router work on my personal site I think
+
+### Day 65 (3/6)
+(less) maybe a little Framer...don't remember
+
+### Day 66 (3/7)
+Nothing ugh
+
+### Day 67 (3/8)
+Nothing ugh
+
+### Day 68 (3/9)
+Graph QL ?

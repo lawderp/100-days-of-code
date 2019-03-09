@@ -206,4 +206,4 @@ Nothing ugh
 Nothing ugh
 
 ### Day 68 (3/9)
-Graph QL ?
+Started GraphQL TH tutorial, but it was out of date / unusable. So started Robin's GraphQL tutorial - got access token via GH.

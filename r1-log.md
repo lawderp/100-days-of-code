@@ -207,3 +207,11 @@ Nothing ugh
 
 ### Day 68 (3/9)
 Started GraphQL TH tutorial, but it was out of date / unusable. So started Robin's GraphQL tutorial - got access token via GH.
+
+### Day 69 (3/10)
+[GraphQL] - started playing w GH GraphQL API via their GUI.
+
+### Day 70 (3/11)
+[GraphQL] - finished GraphQL exercises on GH. Set up react app, and pulled in GH token via .env file (a first!).
+
+

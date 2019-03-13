@@ -214,4 +214,9 @@ Started GraphQL TH tutorial, but it was out of date / unusable. So started Robin
 ### Day 70 (3/11)
 [GraphQL] - finished GraphQL exercises on GH. Set up react app, and pulled in GH token via .env file (a first!).
 
+### Day 71 (3/12)
+[GraphQL] - set up basic structure of App.js, then logged first GraphQL query to the console.
+
+### Day 72 (3/13)
+[GraphQL] - displayed basic GQL query result in UI. Then modififed to make query more complex (e.g. nested)
 

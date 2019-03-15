@@ -220,3 +220,8 @@ Started GraphQL TH tutorial, but it was out of date / unusable. So started Robin
 ### Day 72 (3/13)
 [GraphQL] - displayed basic GQL query result in UI. Then modififed to make query more complex (e.g. nested)
 
+### Day 73 (3/14) 
+(less) [GraphQL] - started pulling out functions into higher-order components, to make it cleaner.
+
+### Day 74 (3/15)
+(less) [GraphQL] - changed query to use graphQL variables. Looked at rest, but prob ready to start Gatsby.

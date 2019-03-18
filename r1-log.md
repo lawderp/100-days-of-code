@@ -225,3 +225,9 @@ Started GraphQL TH tutorial, but it was out of date / unusable. So started Robin
 
 ### Day 74 (3/15)
 (less) [GraphQL] - changed query to use graphQL variables. Looked at rest, but prob ready to start Gatsby.
+
+### Day 75 (3/16)
+Started reading through Gatsby tutorial. Tried to install gatsby-cli globally but wasn't working. Started debugging (looks like location issue).
+
+### Day 76 (3/17)
+Continued debugging: confirmed global packages have been installed in the wrong place. Tried to change location, but then ran into permissioning issue ugh. Looks like I'll have to uninstall then reinstall Node...

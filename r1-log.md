@@ -231,3 +231,11 @@ Started reading through Gatsby tutorial. Tried to install gatsby-cli globally bu
 
 ### Day 76 (3/17)
 Continued debugging: confirmed global packages have been installed in the wrong place. Tried to change location, but then ran into permissioning issue ugh. Looks like I'll have to uninstall then reinstall Node...
+
+### Day 77 (3/18)
+Ended up just doing `sudo` to install gatsby-cli globally haha, and it worked. Spun up first gatsby hello world site, and started whipping thru tutorial.
+
+### Day 78 (3/19)
+Nothing ugh
+
+### Day 79 (3/20)
